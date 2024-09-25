@@ -1,1 +1,1 @@
-# mini-project
+# mini-project aims to create a simple camera application using web technologies such a html and css. leveraging the browsers build in media capabilities this project will capture video from a users webcom display it in real time on a webpage and provide functionality to take snapshort or images.  
